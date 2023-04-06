@@ -1,2 +1,3 @@
 # MensAI
-# The all knowing Discord bot on everything Mensa.
+
+The all knowing Discord bot on everything Mensa.
